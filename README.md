@@ -8,13 +8,12 @@
 Um site de Contratações para vagas no ramo da Tecnologia, com diversas informaçãoes de estatíticas e da empresa, para conseguir atrair 
 os profissionais mais capacitados para a nossa equipe.
 
-'''bash
-    # 
-    Comentarios
-
+'''bash 
+    # Exemplo
+    git commit -m teste
 '''
 
 '''java
-   #
+   # exemplo em Java
    System.out.println('Exemplo');
 '''
