@@ -15,5 +15,5 @@ os profissionais mais capacitados para a nossa equipe.
 
 ```java 
   # exemplo javaa
-    System.out.println('Finalmente deu Certo!);
+    System.out.println("Finalmente deu Certo!");
 ```
