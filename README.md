@@ -9,6 +9,6 @@ Um site de Contratações para vagas no ramo da Tecnologia, com diversas informa
 os profissionais mais capacitados para a nossa equipe.
 
 '''bash 
-    # Exemplo
-    git commit -m teste
+#Exemplo
+git commit -m teste
 '''
