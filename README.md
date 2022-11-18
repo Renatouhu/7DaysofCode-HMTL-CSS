@@ -1,7 +1,5 @@
-[![NPM](https://img.shields.io/github/license/Renatouhu/7DaysofCode-HMTL-CSS)](https://github.com/Renatouhu/7DaysofCode-HMTL-CSS/blob/master/LICENSE)
-
 # 7DaysofCode HTML/CSS
-
+[![NPM](https://img.shields.io/github/license/Renatouhu/7DaysofCode-HMTL-CSS)](https://github.com/Renatouhu/7DaysofCode-HMTL-CSS/blob/master/LICENSE)
 ## Sobre o Projeto
 
 É uma aplicação Web HTML/CSS, desenvolvida durante o 7 Days of Code (https://7daysofcode.io), que ajuda estudantes a consolidarem em seus estudos.
