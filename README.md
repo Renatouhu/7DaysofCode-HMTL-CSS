@@ -12,8 +12,3 @@ os profissionais mais capacitados para a nossa equipe.
     # Exemplo
     git commit -m teste
 '''
-
-'''java
-   # exemplo em Java
-   System.out.println('Exemplo');
-'''
