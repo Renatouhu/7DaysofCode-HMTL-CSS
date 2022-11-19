@@ -1,8 +1,10 @@
 @import url('/css/nav.css');
+@import url('/css/header.css');
 
 :root{
     --cinza-escuro: #3A404E;
     --cinza-claro: #667085;
+    --cinza-maisEscuro: #101828;
     --vermelho-escuro: #8E2424;
     --branco: #FFFFFF;
     --fonte-principal: 'Inter';
