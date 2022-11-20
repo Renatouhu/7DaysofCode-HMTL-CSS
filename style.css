@@ -1,5 +1,6 @@
 @import url('/css/nav.css');
 @import url('/css/header.css');
+@import url('/css/metricas.css');
 
 :root{
     --cinza-escuro: #3A404E;
