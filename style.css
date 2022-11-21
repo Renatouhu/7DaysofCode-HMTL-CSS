@@ -2,6 +2,7 @@
 @import url('/css/header.css');
 @import url('/css/metricas.css');
 @import url('css/talentos.css');
+@import url('css/vagas.css');
 
 :root{
     --cinza-escuro: #3A404E;
