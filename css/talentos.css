@@ -9,7 +9,7 @@
     color: var(--vermelho-escuro);
     font-size: 14px;
     font-weight: 500;
-    background-color: rgba(142, 36, 36, 0.05);
+    background-color: var(--vermelho-transparente);
     border-radius: 16px;
     padding: 0.5em 1em;
 }

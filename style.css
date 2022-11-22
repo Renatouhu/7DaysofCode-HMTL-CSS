@@ -1,14 +1,15 @@
-@import url('/css/nav.css');
-@import url('/css/header.css');
-@import url('/css/metricas.css');
+@import url('css/nav.css');
+@import url('css/header.css');
+@import url('css/metricas.css');
 @import url('css/talentos.css');
 @import url('css/vagas.css');
-
+@import url('css/depoimentos.css');
 :root{
     --cinza-escuro: #3A404E;
     --cinza-claro: #667085;
     --cinza-maisEscuro: #101828;
     --vermelho-escuro: #8E2424;
+    --vermelho-transparente:rgba(196, 25, 25, 0.03);
     --branco: #FFFFFF;
     --fonte-principal: 'Inter';
 }

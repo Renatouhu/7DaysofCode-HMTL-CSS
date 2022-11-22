@@ -2,11 +2,12 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding-top: 0.7em;
 }
 
 .logo{
     display: flex;  
-    align-items: center; 
+    align-items: center;
 }
 
 .navegacao__logo{
@@ -22,6 +23,7 @@
 
 .navegacao-lista{
     display: flex;
+    width: 50%;
 }
 
 .lista__itens{
